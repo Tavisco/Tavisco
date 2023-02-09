@@ -8,7 +8,7 @@ I'm someone who is passionate about **Backend**, likes to **write code**, and **
 
 <br>
 
-Ever since I joined GitHub **9** years ago, I pushed **866** commits, opened **8** issues, submitted **15** pull requests and received **14** stars across **21** personal projects.
+Ever since I joined GitHub **9** years ago, I pushed **876** commits, opened **8** issues, submitted **15** pull requests and received **14** stars across **21** personal projects.
 
 I mostly write **Kotlin/Java** for work, and **C** for personal projects these days.
 
