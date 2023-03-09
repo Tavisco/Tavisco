@@ -2,15 +2,15 @@
 
 ### Hey!
 
-I'm someone who is passionate about **Backend**, likes to **write code**, and **mess with old hardware**.
+I'm someone who likes to **write code**, and **mess with old hardware**.
 
 [![pgp](https://img.shields.io/badge/pgp-0x5270D73FF43928AC-313131?style=flat&labelColor=313131&color=313131)](https://github.com/Tavisco.gpg)
 
 <br>
 
-Ever since I joined GitHub **9** years ago, I pushed **896** commits, opened **8** issues, submitted **15** pull requests and received **18** stars across **21** personal projects.
+Ever since I joined GitHub **9** years ago, I pushed **897** commits, opened **8** issues, submitted **15** pull requests and received **18** stars across **21** personal projects.
 
-I mostly write **Kotlin/Java** for work, and **C** for personal projects these days.
+I mostly write **Kotlin/Java** for backend at work, and **C** for personal projects these days.
 
 Also, here are a some of **my repositories** that are worth mentioning:
 
