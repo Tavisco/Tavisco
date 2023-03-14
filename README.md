@@ -8,7 +8,7 @@ I'm someone who likes to **write code**, and **mess with old hardware**.
 
 <br>
 
-Ever since I joined GitHub **9** years ago, I pushed **898** commits, opened **8** issues, submitted **15** pull requests and received **18** stars across **21** personal projects.
+Ever since I joined GitHub **9** years ago, I pushed **897** commits, opened **8** issues, submitted **15** pull requests and received **18** stars across **21** personal projects.
 
 I mostly write **Kotlin/Java** for backend at work, and **C** for personal projects these days.
 
