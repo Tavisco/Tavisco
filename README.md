@@ -8,7 +8,6 @@ I'm someone who likes to write code and mess with old hardware
 
 <br>
 <br>
-<br>
 
 I mostly write **Kotlin/Java** for backend at work, and **C** for personal projects these days.
 
