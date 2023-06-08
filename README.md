@@ -7,7 +7,6 @@ I'm someone who likes to write code and mess with old hardware
 [![pgp](https://img.shields.io/badge/pgp-0x5270D73FF43928AC-313131?style=flat&labelColor=313131&color=313131)](https://github.com/Tavisco.gpg)
 
 <br>
-<br>
 
 I mostly write **Kotlin/Java** for backend at work, and **C** for personal projects these days.
 
